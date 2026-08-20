@@ -5,3 +5,10 @@
 # I am a student from 9-Platinum of Batch 2030
 
 # I like weezer
+
+---
+
+# Quarter 1
+## Activities
+### Computational Thinking Skills
+[View my Computational Thinking Exercise](q1/ctskillPlatinumPAN.md)
