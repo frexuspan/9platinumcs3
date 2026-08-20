@@ -12,4 +12,6 @@
 ## Activities
 ### Computational Thinking Skills
 [View my Computational Thinking Exercise](q1/ctskillsPlatinumPAN.md)
+
+### Chinese Zodiac
 [View my Chinese Zodiac Exercise](q1/zodiacPlatinumPAN.md)
