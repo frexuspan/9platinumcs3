@@ -17,4 +17,5 @@
 [View my Chinese Zodiac Exercise](q1/zodiacPlatinumPAN.md)
 
 ### Object-Oriented PROGRAM
-[View my OOP Exercise!](q1/ila_oop.md)
+[View my OOP ILA 1!](q1/ila_oop.md)
+[View my OOP Activity 1!](q1/oopact1PlatinumPAN.md)
