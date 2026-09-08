@@ -35,3 +35,6 @@ I chose this class because i found it funny at first, but i realized that this i
 The property that is the most important is the start property, because all properties (except open, close) would not be able to function without the machine starting.
 ### Which method is the most useful? Why?
 The method that is the most useful is ring_when_finished, because it lets the user know that the machine is done washing the clothes.
+
+## Data Revision
+[View NEW ACTIVITY](classAttributesMethods.md)

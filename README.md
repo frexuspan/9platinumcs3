@@ -21,3 +21,5 @@
 [View my OOP Activity 1!](q1/oopact1PlatinumPAN.md)
 
 [View my OOP Activity!](q1/classObjectUML.md)
+
+[View my SECOND OOP Activty!](classAttributesMethods.md)
