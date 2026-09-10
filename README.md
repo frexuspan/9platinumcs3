@@ -22,4 +22,4 @@
 
 [View my OOP Activity!](q1/classObjectUML.md)
 
-[View my SECOND OOP Activty!](classAttributesMethods.md)
+[View my SECOND OOP Activty!](q1/classAttributesMethods.md)
