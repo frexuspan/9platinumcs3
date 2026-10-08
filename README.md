@@ -25,3 +25,7 @@
 [View my SECOND OOP Activty!](q1/classAttributesMethods.md)
 
 [VIEW MY THIRD OOP ACTIVTY!](q1/classRelationships.md)
+
+---
+
+# Quarter 2
