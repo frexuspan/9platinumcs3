@@ -37,3 +37,6 @@
 
 ### Inheritance
 [View my inheritance activity here!](q2/sg9_inheritance.py)
+
+### Method Overriding
+[View my method overriding activity 1 here!](q2/zoomanagementsystem.py)
