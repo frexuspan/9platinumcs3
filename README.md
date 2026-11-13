@@ -4,7 +4,7 @@
 
 # I am a student from 9-Platinum of Batch 2030
 
-# I like weezer
+# oo wee oo i look just like buddy holly
 
 ---
 
@@ -40,3 +40,8 @@
 
 ### Method Overriding
 [View my method overriding activity 1 here!](q2/zoomanagementsystem.py)
+
+### Polymorphism
+[View my activity 1 here!](q2/hospital_billing_system.py)
+
+[View my activity 2 here!](q2/activity2.md)
